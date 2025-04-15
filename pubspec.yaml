@@ -1,0 +1,53 @@
+name: untitled1
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider: ^4.2.1
+  google_nav_bar: ^5.0.6
+  google_fonts: ^4.0.4
+  firebase_core: ^2.3.0
+  firebase_auth: ^4.1.4
+  flutter_svg: ^2.0.5
+  smooth_page_indicator: ^1.1.0
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  tflite: ^1.0.5
+  image_picker: ^0.8.9
+  tflite_flutter: ^0.10.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/our_model/model.tflite
+    - assets/our_model/Labels.txt
+    - assets/our_model/model_(1).tflite
+    - assets/images/Acne-Rosacea.jpg
+    - assets/images/Eczema.jpg
+    - assets/images/Psoriasis-Relatives.jpg
+    - assets/images/Vitiligo.jpg
+    - assets/cbc_model/final_cbc_model.tflite
+    - assets/cbc_model/final_cbc_model_old.tflite
+    - assets/test_cbc/final_cbc_model.tflite
+    - assets/kidney_model/final_kidney_model.tflite
+    - assets/images/anemia.jpg
+    - assets/images/chronic.jpg
+    - assets/images/healthy.png
+    - assets/images/healthy_1.webp
