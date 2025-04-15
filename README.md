@@ -74,9 +74,8 @@ flutter run
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/WhatsApp1.jpg" alt="Screenshot 1" width="200"/>
-  <img src="assets/WhatsApp2.jpg" alt="Screenshot 2" width="200"/>
-  <img src="assets/WhatsApp3.jpg" alt="Screenshot 3" width="200"/>
+  <img src="assets/images/5eb84818-1c6c-419a-a1bc-8960865c0a04.jpg" alt="Screenshot 1" width="200"/>
+  <img src="assets/images/5b1b62eb-0947-485e-8ed7-5542a17fd083.jpg" alt="Screenshot 2" width="200"/>
 </div>
 
 ## 🤝 Contributing
