@@ -1,8 +1,6 @@
 # 🏥 Skin Cancer Detection App
 
-<div align="center">
-  <img src="assets/Banner.png" alt="App Banner" width="600"/>
-</div>
+
 
 ## 📱 Overview
 
@@ -88,13 +86,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
